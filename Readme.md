@@ -11,6 +11,18 @@ In this work, we propose an Active Data-selection (ADs) framework to ensure the 
 
 ## 2. Citation
 If you find our work useful in your research, please consider citing:
+
+```
+@misc{zhao2024ads,
+      title={ADs: Active Data-sharing for Data Quality Assurance in Advanced Manufacturing Systems}, 
+      author={Yue Zhao and Yuxuan Li and Chenang Liu and Yinan Wang},
+      year={2024},
+      eprint={2404.00572},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 ## 1. Requirements
 <hr>
 
